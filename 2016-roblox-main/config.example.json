@@ -22,8 +22,8 @@
         "catalogDetailsPageOwnersTabEnabled": true,
         "launchUsingEsURI": true
       },
-      "baseUrl": "https://your.domain/",
-      "apiFormat": "https://your.domain/apisite/{0}{1}"
+      "baseUrl": "https://dynoblox.cc",
+      "apiFormat": "https://dynoblox.cc/apisite/{0}{1}"
     }
   }
 }
