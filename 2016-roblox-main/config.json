@@ -1,6 +1,18 @@
 {
   "serverRuntimeConfig": {
-    "backend": {"csrfKey":"2NekqgcpRg4+Y3RRcYjE4jVt8xuDwTS1JpZPlKFAgUdHu1EKhP2HvJD5P+axVsz9A1kAT1Sy3C+yFwGcq6ltYw=="}
+    "backend": {
+      "csrfKey": "2NekqgcpRg4+Y3RRcYjE4jVt8xuDwTS1JpZPlKFAgUdHu1EKhP2HvJD5P+axVsz9A1kAT1Sy3C+yFwGcq6ltYw==",
+      "database": {
+        "client": "mysql2",
+        "connection": {
+          "host": "sqlXXX.infinityfree.com",
+          "user": "if0_43356149",
+          "password": "YOUR_INFINITYFREE_PASSWORD",
+          "database": "if0_43356149_revival",
+          "port": 3306
+        }
+      }
+    }
   },
   "publicRuntimeConfig": {
     "backend": {
